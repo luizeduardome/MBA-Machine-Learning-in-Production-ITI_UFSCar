@@ -1,4 +1,4 @@
-# machine-learning-in-productions-UFScar
+# MBA-Machine-Learning-in-Production-ITI_UFSCar
 
 
 # Proposta do Curso 
